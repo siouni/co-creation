@@ -1,3 +1,7 @@
+/download
+/bin/*
+!/bin/_put_exe_file
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
